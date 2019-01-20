@@ -1,0 +1,9 @@
+Vijay Prakash,2017,Chowka,Alladsu_Alladsu,/home/ybpreethishchandra/Desktop/Music/Alladsu.mp3
+Vijay Prakash,2016,Rajakumara,Bombe Heluthaite,/home/ybpreethishchandra/Desktop/Music/Bombe Heluthaite.mp3
+Harikrishna,2015,Airavatha,Mr.Airavatha,/home/ybpreethishchandra/Desktop/Music/Mr.Airavatha.mp3
+Chandan Shetty,2014,Album,3PEG,/home/ybpreethishchandra/Desktop/Music/3peg.mp3
+Chandan Shetty,2013,Album,ChocolateGirl,/home/ybpreethishchandra/Desktop/Music/Chocolate.mp3
+Multiple,2012,KATAKA,Kataka theme,/home/ybpreethishchandra/Desktop/Music/Kataka Theme.mp3
+Santosh Venky,2011,Jai Maruthi 800,Mandhara,/home/ybpreethishchandra/Desktop/Music/Mandhara.mp3
+Vijay Prakash,2017,Tarak,Sanje Hottu,/home/ybpreethishchandra/Desktop/Music/Sanje Hottu.mp3
+SPB,1989,abcd,abcd,abcd
